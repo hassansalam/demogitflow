@@ -3,7 +3,8 @@
 
 
 ###### last heading
-demoGitflow
+demoGitflo
 
+** This is bold**
 
-'this is itallic'
+*this is italic*
